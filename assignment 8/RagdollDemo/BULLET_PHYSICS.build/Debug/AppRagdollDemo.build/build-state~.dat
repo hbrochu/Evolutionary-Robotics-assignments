@@ -1,0 +1,420 @@
+TAppRagdollDemo
+v6
+r1
+cCheck dependencies
+cCompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/AppRagdollDemo normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000531F5762000000000000044C
+t1394562914
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F576200000000000001DE
+t1394562914
+s478
+
+N/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/AppRagdollDemo.LinkFileList
+c00000000533341510000000000000121
+t1395867985
+s289
+
+N/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o
+t1395867987
+s555756
+
+N/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o
+t1395867986
+s206740
+
+N/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/AppRagdollDemo
+t2
+s0
+
+N/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp
+c0000000053333FF500000000000067C9
+t1395867637
+s26569
+
+N/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp
+c00000000532A089B000000000000053B
+t1395263643
+s1339
+
+CBuild AST from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp
+r0
+
+CBuild AST from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies998310d178e3b841^914512d178e3b841^---0#1#1#--18"Check dependencies36"A26B3E70-6C8B-446C-873C-D13733C07468-
+
+CCompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s417560785.070911
+e417560787.801920
+r1
+xCompileC
+xDemos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o
+x/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCylinderShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConeShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleInfoMap.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCompoundShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btEmptyShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btAxisSweep3.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btFixedConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btRaycastVehicle.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btVehicleRaycaster.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btWheelInfo.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GL_ShapeDrawer.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btShapeHull.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GLDebugDrawer.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutDemoApplication.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/DemoApplication.h
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:22:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:
+o/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;
+o                     ^
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:22:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:26:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h:19:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:
+o/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;
+o                     ^
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:27:
+o/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:148:5: warning: control reaches end of non-void function [-Wreturn-type]
+o    }
+o    ^
+o/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:340:9: warning: unused variable 'groundID' [-Wunused-variable]
+o    int groundID = 9;
+o        ^
+o/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:420:15: warning: unused variable 'localCenter' [-Wunused-variable]
+o    btVector3 localCenter = PointWorldToLocal(0, btVector3(0.,2.,0.));
+o              ^
+o/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:421:15: warning: unused variable 'localAxis' [-Wunused-variable]
+o    btVector3 localAxis = AxisWorldToLocal(0, btVector3(0.,2.,0.));
+o              ^
+o/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:581:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:23:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:595:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]
+o        glutSwapBuffers();
+o        ^
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:23:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared here
+oextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);
+o                     ^
+o7 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp206"CompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o Demos/RagdollDemo/RagdollDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler923d12d178e3b841^b649cdd378e3b841^-4143"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:22:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;                     ^In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:22:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:26:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h:19:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h:20:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h:19:/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;                     ^In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:27:/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:148:5: warning: control reaches end of non-void function [-Wreturn-type]    }    ^/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:340:9: warning: unused variable 'groundID' [-Wunused-variable]    int groundID = 9;        ^/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:420:15: warning: unused variable 'localCenter' [-Wunused-variable]    btVector3 localCenter = PointWorldToLocal(0, btVector3(0.,2.,0.));              ^/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:421:15: warning: unused variable 'localAxis' [-Wunused-variable]    btVector3 localAxis = AxisWorldToLocal(0, btVector3(0.,2.,0.));              ^/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:581:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:23:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:595:2: warning: 'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9 [-Wdeprecated-declarations]        glutSwapBuffers();        ^In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:23:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h:27:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h:448:22: note: 'glutSwapBuffers' declared hereextern void APIENTRY glutSwapBuffers(void) OPENGL_DEPRECATED(10_0, 10_9);                     ^7 warnings generated.7(36%IDEClangDiagnosticActivityLogMessage2@62"'btConvexHullShape::project' hides overloaded virtual function-417560787#18446744073709551615#0#4(2@105"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:22:-417560787#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^21#9#21#9#1000#0#21"Apple LLVM 5.0 Notice--2@100"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:-417560787#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h0000000000000000^19#9#19#9#1106#0#21"Apple LLVM 5.0 Notice--2@101"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:-417560787#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h0000000000000000^31#9#31#9#1659#0#21"Apple LLVM 5.0 Notice--2@114"Hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)-417560787#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h0000000000000000^54#14#54#14#2228#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h0000000000000000^75#14#75#14#2899#0#14"Semantic Issue--2@40"Control reaches end of non-void function-417560787#18446744073709551615#0#1(2@105"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp:27:-417560787#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^26#9#26#9#1151#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@84"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h0000000000000000^147#4#147#4#4474#0#14"Semantic Issue--2@26"Unused variable 'groundID'-417560787#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^339#8#339#8#14008#0#19"Unused Entity Issue--2@29"Unused variable 'localCenter'-417560787#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^419#14#419#14#16786#0#19"Unused Entity Issue--2@27"Unused variable 'localAxis'-417560787#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^420#14#420#14#16857#0#19"Unused Entity Issue--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-417560787#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-417560787#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^580#1#580#1#23879#0#12"Deprecations--2@62"'glutSwapBuffers' is deprecated: first deprecated in OS X 10.9-417560787#18446744073709551615#0#1(2@31"'glutSwapBuffers' declared here-417560787#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@161"file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h0000000000000000^447#21#447#21#13979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^594#1#594#1#24119#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@86"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp0000000000000000^2551"CompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o Demos/RagdollDemo/RagdollDemo.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mijitninja/Documents/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/include -I/usr/local/include -I/Users/mijitninja/Documents/bullet-2.82-r2704/src -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/DerivedSources/x86_64 -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.d --serialize-diagnostics /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.dia -c /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.cpp -o /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o36"0F234C71-7FA8-46FE-B0FD-FFA0657B9E0A-
+b821703E6-19DE-4358-98F5-503492AAADD0
+
+CCompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s417560785.071536
+e417560786.607840
+r1
+xCompileC
+xDemos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o
+x/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutDemoApplication.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/DemoApplication.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutStuff.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GL_ShapeDrawer.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btAlignedObjectArray.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btScalar.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btAlignedAllocator.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btVector3.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btMinMax.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btShapeHull.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btTransform.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btMatrix3x3.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btQuaternion.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btQuadWord.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCollisionMargin.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btQuickprof.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObject.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btMotionState.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDispatcher.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btTransformUtil.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btManifoldResult.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBoxShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexInternalShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btAabbUtil2.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btSphereShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCapsuleShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCylinderShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConeShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStaticPlaneShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConcaveShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleCallback.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMesh.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleIndexVertexArray.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btStridingMeshInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btBvhTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btOptimizedBvh.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btQuantizedBvh.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTriangleInfoMap.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btHashMap.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btSerializer.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btScaledBvhTriangleMeshShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btCompoundShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btTetrahedronShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btEmptyShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btMultiSphereShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btUniformScalingShape.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btSphereSphereCollisionAlgorithm.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btDefaultCollisionConfiguration.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionDispatch/btCollisionConfiguration.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btSimpleBroadphase.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btAxisSweep3.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btDbvt.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/BroadphaseCollision/btMultiSapBroadphase.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btDefaultMotionState.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/btIDebugDraw.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btRigidBody.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btPoint2PointConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btJacobianEntry.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btTypedConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSolverBody.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHingeConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConeTwistConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSliderConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGeneric6DofSpringConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btUniversalConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btHinge2Constraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btGearConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btFixedConstraint.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/ConstraintSolver/btConstraintSolver.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btRaycastVehicle.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btVehicleRaycaster.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Vehicle/btWheelInfo.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Dynamics/btActionInterface.h
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GLDebugDrawer.h
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:25:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:
+o/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;
+o                     ^
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:23:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutDemoApplication.h:20:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/DemoApplication.h:21:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GL_ShapeDrawer.h:23:
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btShapeHull.h:22:
+o/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)
+o        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;
+o                     ^
+oIn file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:
+o/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:148:5: warning: control reaches end of non-void function [-Wreturn-type]
+o    }
+o    ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp192"CompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o Demos/RagdollDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler1b6412d178e3b841^bad99bd278e3b841^-2086"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:25:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h:76:15: warning: 'btConvexHullShape::project' hides overloaded virtual function [-Woverloaded-virtual]        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& minProj, btScalar& maxProj, btVector3& witnesPtMin,btVector3& witnesPtMax) const;                     ^In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:23:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GlutDemoApplication.h:20:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/DemoApplication.h:21:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/GL_ShapeDrawer.h:23:In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btShapeHull.h:22:/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h:55:15: note: hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)        virtual void project(const btTransform& trans, const btVector3& dir, btScalar& min, btScalar& max) const;                     ^In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:148:5: warning: control reaches end of non-void function [-Wreturn-type]    }    ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@62"'btConvexHullShape::project' hides overloaded virtual function-417560786#18446744073709551615#0#5(2@98"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:-417560786#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@79"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp0000000000000000^15#9#15#9#946#0#21"Apple LLVM 5.0 Notice--2@103"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h:25:-417560786#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@84"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h0000000000000000^24#9#24#9#1120#0#21"Apple LLVM 5.0 Notice--2@100"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h:20:-417560786#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletDynamicsCommon.h0000000000000000^19#9#19#9#1106#0#21"Apple LLVM 5.0 Notice--2@101"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h:32:-417560786#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/btBulletCollisionCommon.h0000000000000000^31#9#31#9#1659#0#21"Apple LLVM 5.0 Notice--2@114"Hidden overloaded virtual function 'btConvexShape::project' declared here: different number of parameters (4 vs 6)-417560786#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexShape.h0000000000000000^54#14#54#14#2228#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@108"file:///Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/CollisionShapes/btConvexHullShape.h0000000000000000^75#14#75#14#2899#0#14"Semantic Issue--2@40"Control reaches end of non-void function-417560786#18446744073709551615#0#1(2@98"In file included from /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp:16:-417560786#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp0000000000000000^15#9#15#9#946#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@84"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/RagdollDemo.h0000000000000000^147#4#147#4#4474#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@79"file:///Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp0000000000000000^2509"CompileC Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o Demos/RagdollDemo/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mijitninja/Documents/bullet-2.82-r2704    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DCMAKE_INTDIR=\"Debug\" -DUSE_GRAPHICAL_BENCHMARK -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -Wno-sign-conversion -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/include -I/usr/local/include -I/Users/mijitninja/Documents/bullet-2.82-r2704/src -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/DerivedSources/x86_64 -I/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/DerivedSources -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug -D_DEBUG -MMD -MT dependencies -MF /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.dia -c /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/main.cpp -o /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o36"7CC69847-7F0D-4531-B954-C38620AD9B99-
+b821703E6-19DE-4358-98F5-503492AAADD0
+
+CLd /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/AppRagdollDemo normal x86_64
+s417560787.802789
+e417560789.076617
+r1
+xLd
+x/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/AppRagdollDemo
+xnormal
+xx86_64
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/AppRagdollDemo.LinkFileList
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/RagdollDemo.o
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/main.o
+d/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/Debug/libOpenGLSupport.a
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Debug/libBulletDynamics.a
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/Debug/libBulletCollision.a
+d/Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/Debug/libLinearMath.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/AppRagdollDemo55"Ld Demos/RagdollDemo/Debug/AppRagdollDemo normal x86_64c493cdd378e3b841^47ae13d578e3b841^---0#0#1#--1462"Ld Demos/RagdollDemo/Debug/AppRagdollDemo normal x86_64    cd /Users/mijitninja/Documents/bullet-2.82-r2704    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug -F/Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug -filelist /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/AppRagdollDemo.LinkFileList -mmacosx-version-min=10.9 -Wl,-search_paths_first -Wl,-headerpad_max_install_names /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/OpenGL/Debug/libOpenGLSupport.a /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletDynamics/Debug/libBulletDynamics.a /Users/mijitninja/Documents/bullet-2.82-r2704/src/BulletCollision/Debug/libBulletCollision.a /Users/mijitninja/Documents/bullet-2.82-r2704/src/LinearMath/Debug/libLinearMath.a -framework GLUT -framework OpenGL -framework AGL -Xlinker -dependency_info -Xlinker /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/BULLET_PHYSICS.build/Debug/AppRagdollDemo.build/Objects-normal/x86_64/AppRagdollDemo_dependency_info.dat -o /Users/mijitninja/Documents/bullet-2.82-r2704/Demos/RagdollDemo/Debug/AppRagdollDemo36"48EBF662-B3A5-4BE8-ACC5-F2FF38A8C11A-
+b821703E6-19DE-4358-98F5-503492AAADD0
+
